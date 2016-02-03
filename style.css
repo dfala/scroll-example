@@ -1,0 +1,28 @@
+body {
+  background-color: #B0B0B0;
+}
+
+.side-menu {
+    background-color: #fff;
+    position: fixed;
+    top: 50px;
+    left: 50px;
+}
+
+.item {
+  padding: 10px;
+}
+
+.selected {
+  background-color: #FF3C3C;
+}
+
+.content {
+  margin: 50px 100px 50px 300px;
+}
+
+.article {
+  margin-top: 20px;
+  background-color: #fff;
+  padding: 20px;
+}
