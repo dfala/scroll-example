@@ -13,10 +13,6 @@ body {
   padding: 10px;
 }
 
-.selected {
-  background-color: #FF3C3C;
-}
-
 .content {
   margin: 50px 100px 50px 300px;
 }
@@ -25,4 +21,8 @@ body {
   margin-top: 20px;
   background-color: #fff;
   padding: 20px;
+}
+
+.selected {
+  background-color: #FF3C3C;
 }
